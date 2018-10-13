@@ -967,6 +967,7 @@ Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
 ICI Explora:Canada/Eastern
+ICI Radio-Canada Télé:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
 ICTV (AU):Australia/Sydney
 ICTV:Europe/Kiev
@@ -2154,6 +2155,7 @@ Tokyo MX:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
+Tou.tv:Canada/Eastern
 Trace Sports (UK):Europe/London
 Travel + Escape (CA):Canada/Eastern
 Travel Channel:US/Eastern
@@ -2351,6 +2353,7 @@ YouTube Red:US/Eastern
 YouTube:US/Eastern
 YourTV Blackpool & Preston (UK):Europe/London
 YourTV Manchester (UK):Europe/London
+Z:Canada/Eastern
 Z LIVING (US):US/Eastern
 ZDF.Kultur:Europe/Berlin
 ZDF:Europe/Berlin
